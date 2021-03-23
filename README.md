@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [待补充](#)
 
-- 🌱 I’m currently learning ** 待补充 **
+- 🌱 I’m currently learning **待补充**
 
 - 👯 I’m looking to collaborate on [待补充](#)
 
@@ -17,13 +17,13 @@
 
 - 📝 I regularly write articles on [待补充](待补充)
 
-- 💬 Ask me about ** 待补充 **
+- 💬 Ask me about **待补充**
 
-- 📫 How to reach me ** 待补充 **
+- 📫 How to reach me **待补充**
 
-- 📄 Know about my experiences [955 养老](955 养老)
+- 📄 Know about my experiences [955养老](955养老)
 
-- ⚡ Fun fact ** 自动化测试 **
+- ⚡ Fun fact **自动化测试**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
